@@ -8,7 +8,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [Email](mailto:jangraaditya11@gmail.com)
 [Myportfolio](https://adiportfolio.onrender.com/)
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=prathamjagga&theme=xcode)](https://git.io/prathamjagga)
 
 ## ⚡ Technologies
 
@@ -31,7 +30,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <!-- <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>  -->
 <a href="#"><img alt="VsCode" src="https://img.shields.io/badge/VsCode%20-%23430098.svg?logo=VsCode&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+
 
 <!-- ## 📈 Stats -->
 
