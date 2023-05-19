@@ -24,6 +24,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
+![Mongodb](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Mongodb)
 
 ### Tools:
 
